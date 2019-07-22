@@ -1,0 +1,4 @@
+This folder contains other files like:
+* Using classical algorithms as KAZE and SURF for generating embeddings
+* Using classical processing algorithms (as MSE, and SSIM among others) for measuring image difference 
+* A notebook with study about how to processing input images
